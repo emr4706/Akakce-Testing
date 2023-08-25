@@ -91,6 +91,7 @@ public class Main_Test extends BaseDriver {
         Assert.assertTrue(dogrulama.getText().contains("Giriş Yap"));
 
         BekleVeKapat();
+
     }
 
     @Test //Dilek hanim
