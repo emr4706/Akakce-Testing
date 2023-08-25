@@ -135,14 +135,14 @@ public class Main_Test extends BaseDriver {
             //Codu bu alana yazabiliriz
 
 
-            @Test //Suleyman bey
-            public void Delete_account () {
-                driver = new ChromeDriver();
+        }
 
-                //Codu bu alana yazabiliriz
+        @Test //Suleyman bey
+        public void Delete_account () {
+            driver = new ChromeDriver();
 
-                BekleVeKapat();
-            }
+            //Codu bu alana yazabiliriz
 
+            BekleVeKapat();
         }
     }
